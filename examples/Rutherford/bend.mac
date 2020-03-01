@@ -11,7 +11,7 @@
 /vis/viewer/zoom 1.5
 /vis/drawVolume
 /vis/scene/add/trajectories
-/vis/scene/add/text -8 7 0 cm 20 0 0 red: 2 MeV electron; blue: 6.11 MeV alpha
+/vis/scene/add/text -8 7 0 cm 20 0 0 red: 2 MeV electron; blue: 6.11  MeV alpha
 /vis/scene/add/text -6 -7 0 cm 20 0 0 Magnetic field: 0.1 Tesla
 
 /gps/source/multiplevertex true
